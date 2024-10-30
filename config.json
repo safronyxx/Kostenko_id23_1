@@ -1,0 +1,19 @@
+{
+  "birds": {
+    "count": 20,
+    "min_sit_time": 100,
+    "max_sit_time": 300,
+    "min_start_x": 50,
+    "max_start_x": 750,
+    "min_start_y": -100,
+    "max_start_y": -50
+  },
+  "posts": {
+    "count": 5,
+    "x_spacing": 150,
+    "min_height": 100,
+    "max_height": 200,
+    "start_x": 100,
+    "start_y": 350
+  }
+}
